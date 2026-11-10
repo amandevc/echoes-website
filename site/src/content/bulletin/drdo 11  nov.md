@@ -1,7 +1,7 @@
 ---
 title: "India to Induct Pralay: DRDO Successfully Test-Fires Indigenous Quasi-Ballistic Missile"
 author: "Sarang Gulati"
-cover: "/images/bulletin/11NovN.jpg"
+cover: "/images/bulletin/11NovN.jpeg"
 order: -14
 ---
 
