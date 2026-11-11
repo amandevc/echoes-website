@@ -1,8 +1,8 @@
 ---
 title: "When Humans Sound Like Birds: How Human Speech and Song Echo the Patterns of Birdsong"
 author: "Mitisha Sardana"
-cover: "/images/bulletin/birdsong.png"
-order: -14
+cover: "/images/bulletin/11NovS.jpeg"
+order: -15
 ---
 
 <p>
@@ -51,10 +51,7 @@ We have spent centuries listening to birds. Perhaps the next step is learning ho
 
 <p>
 <i>Sources:
-<a href="https://www.science.org" style="color:rgba(127, 170, 139, 1)" target="_blank">Science Journal</a>,
 <a href="https://ubc.ca" style="color:rgba(127, 170, 139, 1)" target="_blank">University of British Columbia</a>,
 <a href="https://pubmed.ncbi.nlm.nih.gov" style="color:rgba(127, 170, 139, 1)" target="_blank">PubMed</a>,
-<a href="https://www.imperial.ac.uk" style="color:rgba(127, 170, 139, 1)" target="_blank">Imperial College London</a>,
-<a href="https://www.downtoearth.org.in" style="color:rgba(127, 170, 139, 1)" target="_blank">Down To Earth</a>
 </i>
 </p>
